@@ -6,7 +6,7 @@ Simule ocorrências fictícias e confira como faixas de pontos alteram o valor d
 
 Abra a [demonstração](https://martinlofranodeoliveira.github.io/boletim-medicao-servicos/). Para uso local, execute `python3 -m http.server 8000` no diretório e abra `http://localhost:8000`.
 
-Informe grossCents, bands com minPoints e rateBps, e events com id e points. Um rateBps de 300 significa 3%.
+Confira o exemplo preenchido ou informe o valor bruto, as faixas de desconto e as ocorrências com seus pontos. Clique em **Calcular medição** para ver os descontos por ocorrência e o valor líquido. **Baixar relatório** exporta as linhas em CSV.
 
 ## Contrato público
 
